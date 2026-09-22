@@ -38,8 +38,9 @@ limited safeguard, not a guarantee that every sensitive value is detected.
 ## Publication
 
 Intended repository: `ai-career-interview-assistant`, **private**.
-GitHub authentication was invalid during preparation; no remote upload is
-claimed. After authenticating, publish from this directory:
+The initial restricted-network authentication check failed. A subsequent
+network-enabled check verified authentication successfully. For a new remote,
+publish from this directory:
 
 ```powershell
 gh auth login --hostname github.com --web

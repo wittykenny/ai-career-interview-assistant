@@ -98,8 +98,9 @@ This repository contains an undergraduate research/course project by Haoming Luo
 
 ## Author
 
-Haoming Luo  
-Zhongnan University of Economics and Law  
+Haoming Luo
+
+Zhongnan University of Economics and Law
 B.Eng. in Artificial Intelligence & B.Mgt. in Accounting
 
 No repository-wide license has been selected; third-party materials retain their respective rights.
